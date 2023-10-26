@@ -327,10 +327,10 @@ section{
 }
   
 .skills-center article {
-    border: 7px solid var(--main-color);
+    border: 7px solid ;
+    border-color: black;
     border-radius: 25px;
     margin: 2rem 0;
-    box-shadow: 5px 5px 45px -15px var(--main-color);
 }
 .skill-container {
     background: var(--main-color);
@@ -364,8 +364,8 @@ img:not(.nav-logo) {
     display: block;
 }
 .white{
-    color:white;
-    background-color: white;
+    color:#feeee7;
+    background-color: #feeee7;
 }
 .black{
     color:black;
