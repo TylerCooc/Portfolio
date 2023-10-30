@@ -168,13 +168,13 @@ section{
     font-size: 1.3rem;
     color: var(--bg-color);
 }
-.box h3{
+.h3{
     color: var(--bg-color);
     font-size: 1rem;
     font-weight: 400;
     margin: 4px 0 10px;
 }
-.box span{
+.span{
     font-size: var(--p-font);
     color: var(--main-color);
     font-weight: 600;
